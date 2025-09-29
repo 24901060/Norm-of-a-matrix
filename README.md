@@ -46,11 +46,13 @@ print(norm)
 ```
 ## Output:
 ### 1-Norm of a Matrix
-<img width="1272" height="841" alt="image" src="https://github.com/user-attachments/assets/e7811a30-bee9-4506-b23a-186f1593f3e9" />
+<img width="1278" height="845" alt="image" src="https://github.com/user-attachments/assets/bfeb7b4b-7836-4420-9935-fd340c2edb6e" />
+
 
 
 ### 2-Norm of a Matrix
-<img width="1284" height="924" alt="image" src="https://github.com/user-attachments/assets/d7d8f452-3668-436c-a7ec-a437b0931dc3" />
+<img width="1281" height="921" alt="image" src="https://github.com/user-attachments/assets/348eb7b9-3197-4173-bf3a-89b127d81a2a" />
+
 
 
 ### Infinity Norm of a Matrix
